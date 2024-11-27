@@ -1,0 +1,6 @@
+[Database]
+hostname=MUBEENA\\SQLEXPRESS01
+dbname=VirtualArtGallery
+port=3306
+
+
